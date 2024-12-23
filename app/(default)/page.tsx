@@ -15,16 +15,11 @@ export default function Home() {
   return (
     
       <>
-      {/* <MobileBlocker/> */}
         <Hero />
 
         <Testimonials />
         
-        {/* <SimpleSlider /> */}
-        {/* <Features /> */}
-        {/* <FeaturesBlocks /> */}
-
-        {/* <Newsletter /> */}
+     
       </>
     
   )
